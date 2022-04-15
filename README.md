@@ -2,13 +2,13 @@
 
 This repository is by 
 [Priya L. Donti](https://www.priyadonti.com), [J. Zico Kolter](http://zicokolter.com), and [Inês Azevedo](https://inesazevedo.org) and contains the Python source code to
-reproduce the experiments in our paper "How much are we saving after all? Characterizing the effects of commonly-varying assumptions on emissions and damage estimates in PJM."
+reproduce the experiments in our [paper](https://pubs.acs.org/doi/10.1021/acs.est.8b06586) "How much are we saving after all? Characterizing the effects of commonly-varying assumptions on emissions and damage estimates in PJM."
 
 # Introduction
 
 In recent years, several methods have emerged to estimate the emissions and health, environmental, and climate change damages avoided by interventions such as energy efficiency, demand response, and renewables integration. However, differing assumptions employed in these analyses could yield contradicting recommendations regarding intervention implementation. We test the magnitude of the effect of using different key assumptions -- average vs. marginal emissions, year of calculation, temporal and regional scope, and inclusion of non-emitting generation -- to estimate PJM emissions and damage factors. We further highlight the importance of factor selection by evaluating three illustrative 2017 power system examples in PJM.
 
-Please see our paper for additional details.
+Please see our [paper](https://pubs.acs.org/doi/10.1021/acs.est.8b06586) for additional details.
 
 ## Setup and Dependencies
 
